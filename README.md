@@ -1,4 +1,4 @@
-# BiSeqGate
+# BiSeqGate: Bidirectional Sequence-Aware Graph Learning for Logic Circuit Semantics
 
 ## 1. Abstract
 
